@@ -19,7 +19,7 @@
 body {
     background: #F5F4EF;
     color: #000305;
-    font-size: 100%; /* Base font size: 14px */
+    font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.429;
     margin: 0;
@@ -271,7 +271,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 600px;
+	width: 760px;
 
 	border-radius: 10px;
 	-moz-border-radius: 10px;
