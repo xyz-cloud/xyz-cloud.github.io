@@ -38,11 +38,11 @@ h6 {font-size: 1em}		/* 14px */
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	line-height: 1.1;
-	margin-bottom: .1em;
+	margin-bottom: .8em;
     font-family: 'Yanone Kaffeesatz', arial, serif;
 }
 
-h3, h4, h5, h6 { margin-top: .1em; }
+h3, h4, h5, h6 { margin-top: .8em; }
 
 hr { border: 2px solid #EEEEEE; }
 
@@ -147,7 +147,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: auto;}
+.body {clear: both; margin: 0 auto; width: 800px;}
 img.right, figure.right, div.figure.align-right {
     float: right;
     margin: 0 0 2em 2em;
@@ -170,8 +170,8 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	Header
 *****************/
 #banner {
-	margin: 2.5em auto;
-	padding: 0 0 0 0;
+	margin: 0 auto;
+	padding: 2.5em 0 0 0;
 }
 
 	/* Banner */
@@ -180,7 +180,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		color: #000305;
 		display: block;
 		font-weight: bold;
-		margin: 0 0 .6em 0;
+		margin: 0 0 .6em .2em;
 		text-decoration: none;
 	}
 	#banner h1 a:hover, #banner h1 a:active {
@@ -200,15 +200,15 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		margin: 0 auto 2em auto;
 		padding: 0;
 		text-align: center;
-		width: auto;
+		width: 800px;
 
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
 
-	#banner nav ul {list-style: none; margin: 0 auto 0 auto; width: auto;}
-	#banner nav li {float: left; display: inline; margin: 0,0,0,0;background: #808080;}
+	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
+	#banner nav li {float: left; display: inline; margin: 0;}
 
 	#banner nav a:link, #banner nav a:visited {
 		color: #fff;
@@ -241,8 +241,8 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	background: #fff;
 	margin-bottom: 2em;
 	overflow: hidden;
-	padding:40px 40px;
-	width: auto;
+	padding: 20px;
+	width: 760px;
 
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -270,8 +270,8 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	background: #fff;
 	margin-bottom: 2em;
 	overflow: hidden;
-	padding: 40px 40px;
-	width: auto;
+	padding: 20px 20px;
+	width: 760px;
 
 	border-radius: 10px;
 	-moz-border-radius: 10px;
