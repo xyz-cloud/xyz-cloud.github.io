@@ -5,62 +5,69 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-05-04T10:21:21-00:00</lastmod>
+<lastmod>2020-05-05T10:53:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-05-04T10:21:21-00:00</lastmod>
+<lastmod>2020-05-05T10:53:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-05-04T10:21:21-00:00</lastmod>
+<lastmod>2020-05-05T10:53:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2020-05-04T10:21:21-00:00</lastmod>
+<lastmod>2020-05-05T10:53:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2020-05-04T10:21:21-00:00</lastmod>
+<lastmod>2020-05-05T10:53:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/zhongguotongshi04-jieji.html</loc>
+<loc>/posts</loc>
+<lastmod>2020-05-05T11:00:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>/posts</loc>
 <lastmod>2020-05-04T10:20:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/zhongguotongshi03-zhengti.html</loc>
+<loc>/posts</loc>
 <lastmod>2020-05-03T13:20:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/zhongguotongshi01-hunyin.html</loc>
+<loc>/posts</loc>
 <lastmod>2020-05-01T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/zhongguotongshi01-zuzhi.html</loc>
+<loc>/posts</loc>
 <lastmod>2020-05-01T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -68,21 +75,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/li-shi.html</loc>
-<lastmod>2020-05-04T10:20:00+00:00</lastmod>
+<lastmod>2020-05-05T11:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/lu-si-mian.html</loc>
-<lastmod>2020-05-04T10:20:00+00:00</lastmod>
+<lastmod>2020-05-05T11:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/zhong-guo-tong-shi.html</loc>
-<lastmod>2020-05-04T10:20:00+00:00</lastmod>
+<lastmod>2020-05-05T11:00:00+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/cai-chan.html</loc>
+<lastmod>2020-05-05T11:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/anon.html</loc>
-<lastmod>2020-05-04T10:20:00+00:00</lastmod>
+<lastmod>2020-05-05T11:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
